@@ -1,1 +1,1 @@
-# cse2062_final_restaurant
+Final project for CSE2062(OOP) lesson at Marmara University.
